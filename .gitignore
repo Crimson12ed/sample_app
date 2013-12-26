@@ -17,3 +17,6 @@
 
 # Ignore secret token
 /.secret
+
+# Ignore .DS_Store
+/.DS_Store
