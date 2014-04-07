@@ -20,3 +20,7 @@
 
 # Ignore .DS_Store
 /.DS_Store
+config/.DS_Store
+
+# Ignore local PostgreSQL database.
+/config/database.yml
